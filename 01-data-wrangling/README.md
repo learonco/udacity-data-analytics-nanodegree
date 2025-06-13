@@ -1,0 +1,2 @@
+Real-world data rarely comes clean. Using Python and its libraries, you will gather related datasets from different sources and formats, assess their quality and tidiness, and perform the necessary cleaning.
+In this project, you will document your data wrangling process in a Jupyter Notebook and showcase your efforts through analyses and visualizations using Python and its data-focused libraries.
