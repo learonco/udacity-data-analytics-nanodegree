@@ -1,2 +1,3 @@
-# udacity-data-analytics
-Udacity Data Analytics Nanodegree projects
+# Udacity Data Analytics Nanodegree
+
+This repo contains the solution files for the five projects.
